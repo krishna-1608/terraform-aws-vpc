@@ -1,6 +1,6 @@
 # AWS VPC
 
-This Module creates following resouces uing Terraform 
+This Module creates following resouces using Terraform 
 
 - VPC
 - IGW
